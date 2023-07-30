@@ -16,7 +16,7 @@
 
 Пример формы № 405-05/у и того, как должна выглядеть итоговая таблица, составленная на её основании.
 
-<img src="https://github.com/olga-khrushcheva/DonorSearch/blob/master/images/Example_form_405-05.jpg" height=50% width=50%>
+<img src="https://github.com/Ekaterina-IvanovaM/OCR-of-medical-certificates/blob/main/example_of_result/original.jpg" height=50% width=50%>
 
 <img src="https://github.com/Ekaterina-IvanovaM/OCR-of-medical-certificates/blob/main/example_of_result/expected_result.jpg"> 
 
