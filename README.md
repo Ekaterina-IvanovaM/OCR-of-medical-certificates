@@ -18,7 +18,7 @@
 
 <img src="https://github.com/olga-khrushcheva/DonorSearch/blob/master/images/Example_form_405-05.jpg" height=50% width=50%>
 
-<img src=""> 
+<img src="https://github.com/Ekaterina-IvanovaM/OCR-of-medical-certificates/blob/main/example_of_result/expected_result.jpg"> 
 
 ## Разработанное решение
 За основу решения был взят класс **TableExtractor** из [этого репозитория](https://github.com/livefiredev/ocr-extract-table-from-image-python), который мы доработали, добавив новые функции. Данный класс позволяет находить и извлекать таблицы из изображений с помощью методов библиотеки **OpenCV**, а также производить их предобработку. Извлечённое изображение таблицы затем обрабатывается с помощью методов библиотеки **img2table** с поддержкой инструмента OCR **EasyOCR**; в результате на выходе получается сформированная по изображению таблица, которую пользователь может посмотреть и скачать.
